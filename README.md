@@ -9,7 +9,7 @@ CSS properties in specific order
 
 ## Installation
 
-This mixin is installable with Chocolat's Extras Manager when the new version is released. Alternatively, you can install manually by doing something like:
+This mixin is installable with Chocolat's Mixins Manager. Alternatively, you can install manually by doing something like:
 
     mkdir -p ~/Library/Application\ Support/Chocolat/Mixins/
     git clone https://github.com/csscomb/csscomb.chocmixin.git ~/Library/Application\ Support/Chocolat/Mixins/csscomb.chocmixin
